@@ -1,0 +1,32 @@
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\bin\Debug\New Project.exe.config
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\bin\Debug\New Project.exe
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\bin\Debug\New Project.pdb
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\bin\Debug\EntityFramework.dll
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\bin\Debug\EntityFramework.xml
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project.csproj.AssemblyReference.cache
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\ApplicationForm.g.cs
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\Applicationpage.g.cs
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\HomePage.g.cs
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\Login.g.cs
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\MainWindow.g.cs
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\SignUp.g.cs
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\App.g.cs
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project_Content.g.cs
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project_MarkupCompile.cache
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project_MarkupCompile.lref
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\ApplicationForm.baml
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\Applicationpage.baml
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\HomePage.baml
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\Login.baml
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\MainWindow.baml
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\SignUp.baml
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project.g.resources
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New_Project.Properties.Resources.resources
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project.csproj.GenerateResource.cache
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project.csproj.CoreCompileInputs.cache
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project.csproj.CopyComplete
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project.exe
+C:\Users\zeyad.ahmed\Desktop\New Project\New Project\obj\Debug\New Project.pdb
